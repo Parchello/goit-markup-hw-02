@@ -39,6 +39,7 @@ HEADER
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color-iris);
+  text-decoration: none;
 }
 .text-logo {
   font-weight: 800;
