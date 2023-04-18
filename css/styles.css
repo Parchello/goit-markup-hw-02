@@ -165,6 +165,9 @@ OUR Team section
 .team-sect {
   background-color: var(--color-cloud);
 }
+.team-backgr {
+  background-color: var(--color-white);
+}
 .name-tittle {
   font-weight: 500;
   font-size: 20px;
