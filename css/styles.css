@@ -21,6 +21,8 @@ body {
   letter-spacing: 0.02em;
   text-decoration: none;
   text-transform: none;
+  color: var(--color-slate);
+  background-color: var(--color-white);
 }
 .list {
   list-style: none;
@@ -28,8 +30,11 @@ body {
 /* ===================
 HEADER
 ======================= */
+.link {
+  text-decoration: none;
+}
 .text-logo-blue {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -42,6 +47,8 @@ HEADER
   text-decoration: none;
 }
 .text-logo {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
