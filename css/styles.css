@@ -30,6 +30,9 @@ body {
 /* ===================
 HEADER
 ======================= */
+.addreess-font {
+  font-style: normal;
+}
 .link {
   text-decoration: none;
 }
@@ -172,7 +175,7 @@ OUR Team section
 FOOTER
 ======================= */
 .logo-footer {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
