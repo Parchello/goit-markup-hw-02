@@ -26,6 +26,7 @@ body {
 }
 .list {
   list-style: none;
+  background-color: var(--color-white);
 }
 /* ===================
 HEADER
@@ -157,6 +158,9 @@ Section3
 /* ===================
 OUR Team section
 ======================= */
+.team-sect {
+  background-color: var(--color-cloud);
+}
 .name-tittle {
   font-weight: 500;
   font-size: 20px;
