@@ -182,6 +182,9 @@ OUR Team section
   letter-spacing: 0.02em;
   color: var(--color-slate);
 }
+.team {
+  background-color: var(--color-white);
+}
 /* ===================
 FOOTER
 ======================= */
